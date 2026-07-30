@@ -1,4 +1,0 @@
-interface LeaveApplication
-{
-    void submitLeave();
-}
