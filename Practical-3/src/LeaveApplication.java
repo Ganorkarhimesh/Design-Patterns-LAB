@@ -1,0 +1,4 @@
+interface LeaveApplication
+{
+    void submitLeave();
+}
